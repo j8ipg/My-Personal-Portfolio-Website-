@@ -17,22 +17,6 @@ It's an ideal project for learning basic front-end development and starting a di
 
 ---
 
-## ⚙️ How to Run the Website
-
-Follow these steps to open and view the website on your device:
-
-1. **Download or Clone the Repository**  
-   ```bash
-   git clone https://github.com/your-username/personal-portfolio-jihad
-2.Navigate to the Project Folder
-cd personal-portfolio-jihad
-3.Open the File
-
-.Double-click index.html, or
-
-.Right-click it and select Open With → Browser
-
-.You’ll see the website open in your browser!
 
  ## 🖼️ Screenshot: 
 ![pic of web](https://github.com/user-attachments/assets/0a0a529d-5330-48c0-a97f-5b639486718a)
